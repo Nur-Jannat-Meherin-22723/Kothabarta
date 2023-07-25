@@ -1,1 +1,1 @@
-# Kothabarta
+This is 2-1 Object Oriented Programming Lab Project. Here, me and two of my teammates made a offline desktop application using java in the backend and xml in the frontend. We've used Mysql workbench for database application. The IDE used is Intellij (a Maven project) and Framework is javafx.
